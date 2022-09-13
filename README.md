@@ -1,6 +1,6 @@
 군대에서 코딩 공부하기
 
-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
+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
 
 
 앞으로 코딩할때 항상 이것 먼저 치고 할 것!
